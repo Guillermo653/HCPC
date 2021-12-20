@@ -32,7 +32,7 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/Guillermo653/HACK-PARA-CAMARA-DE-PC`
+* `git clone https://github.com/Guillermo653/HCPC`
 * `cd $HOME`
 * `ls`
 * `cd grabcam`
